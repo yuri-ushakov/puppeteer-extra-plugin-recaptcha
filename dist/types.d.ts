@@ -1,4 +1,4 @@
-/// <reference path="../src/puppeteer-mods.d.ts" />
+/// <reference path="../dist/puppeteer-mods.d.ts" />
 /**
  * Extend window object with recaptcha things
  */
